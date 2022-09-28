@@ -24,6 +24,7 @@ body{
 	max-width: 100%;
 	border-radius: 5px;
 	filter: brightness(50%);
+	object-fit: scale-down;
 }
 .page{
 	padding: 12px;
